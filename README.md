@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohail-shareef
-- 👀 I’m interested in working on Programming for embedded devices.
+- 👀 I’m interested doing Programming for IoT embedded devices.
 - 🌱 I’m currently learning Zwave Protocol
 - 📫 you can contact me on sohail.shareef@hogarcontrols.com
 
