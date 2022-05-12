@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sohail-shareef :smiley:
-- 👀 I’m interested doing Programming for IoT embedded devices.
+- 👀 I’m interested in developing projects for IoT embedded devices.
 - :computer: I worked on Zigbee Application for Gateway, Source code for Fan Dimmer Insert module. 
 - 🌱 I’m currently learning Zwave Protocol
+- Working Projects: Zwave insert modules.  
 - 📫 you can contact me on :e-mail: sohail.shareef@hogarcontrols.com
 
 <!---
